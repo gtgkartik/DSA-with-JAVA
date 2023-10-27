@@ -14,7 +14,7 @@ public class TrailingZeros {
         return count ;
     };
     public static void main(String[] args) {
-        int factorialValue = factorial(5);
+        int factorialValue = factorial(25);
         System.out.println(  NoOfZeros(factorialValue));
 
     }
