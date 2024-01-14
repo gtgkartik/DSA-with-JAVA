@@ -22,5 +22,4 @@ public class Problem10_Fibonacci_number_get_nth_element {
         int n = sc.nextInt();
         fibonacci(n);
     }
-
 }
