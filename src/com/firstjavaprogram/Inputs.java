@@ -1,4 +1,4 @@
-package com.kartik;
+package com.firstjavaprogram;
 
 import java.util.Scanner;
 

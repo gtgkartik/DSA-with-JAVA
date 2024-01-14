@@ -1,4 +1,4 @@
-package com.kartik;
+package com.firstjavaprogram;
 
 public class LivingBeing {
 

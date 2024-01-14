@@ -1,6 +1,5 @@
-package com.kartik;
+package com.firstjavaprogram;
 
-import com.kartik.Animal;
 public class Main {
 
     public static void main(String[] args) {

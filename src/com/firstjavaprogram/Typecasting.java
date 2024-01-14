@@ -1,6 +1,4 @@
-package com.kartik;
-
-import java.util.Scanner;
+package com.firstjavaprogram;
 
 public class Typecasting {
     public static void main(String[] args) {
