@@ -1,6 +1,5 @@
 package com.firstjavaprogram.assignments;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 //Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
@@ -9,7 +8,7 @@ import java.util.Scanner;
     SI= PTR/100
 */
 
-public class Problem3 {
+public class Problem3_Simple_Intrest {
     void calculateSimpleIntrest(double p, float t, float r){
         double result = (p*t*r)/100;
         System.out.println(result);
@@ -27,7 +26,7 @@ public class Problem3 {
         System.out.println("Enter rate: ");
         float r = input.nextFloat();
 
-        Problem3 problem = new Problem3();
+        Problem3_Simple_Intrest problem = new Problem3_Simple_Intrest();
         problem.calculateSimpleIntrest(p,t,r);
     }
 }

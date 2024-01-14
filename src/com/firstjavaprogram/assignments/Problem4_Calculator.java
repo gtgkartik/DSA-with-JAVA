@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 
-public class Problem4 {
+public class Problem4_Calculator {
     public static void calculate(double num1, double num2, char operation ){
         if (operation == '+'){
             System.out.println("num1+num2 = " +(float) (num1+num2));
