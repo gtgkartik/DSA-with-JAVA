@@ -12,6 +12,6 @@ public class PascalsTriangle {
     }
 
     public static void main(String[] args) {
-        System.out.println(findncr(5,2));
+        System.out.println(findncr(5,4));
     }
 }
