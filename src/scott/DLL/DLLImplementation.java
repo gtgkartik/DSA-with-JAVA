@@ -1,4 +1,4 @@
-package scott.LinkedListPractise.DLL;
+package scott.DLL;
 
 class Node {
     Node prev, next ;

@@ -17,7 +17,7 @@ public class PrefixSum {
 
         int [] res = prefixSum(arr);
         for(int a : res){
-            System.out.println(a);
+            System.out.print(a+" ");
         }
     }
 }
