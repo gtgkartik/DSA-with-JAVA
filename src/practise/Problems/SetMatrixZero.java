@@ -1,4 +1,4 @@
-package practise;
+package practise.Problems;
 
 public class SetMatrixZero {
 

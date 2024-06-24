@@ -1,4 +1,4 @@
-package practise;
+package practise.Problems;
 
 public class stockspanOptimalSolution {
     public static void main(String[] args) {
