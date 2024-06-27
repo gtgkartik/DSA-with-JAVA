@@ -15,5 +15,11 @@ public class SearchInStrings {
                 System.out.println(name.charAt(i));
             }
         }
+
+        for(char a: name.toCharArray()){
+            if(a==target){
+                System.out.println(a);
+            }
+        }
     }
 }
