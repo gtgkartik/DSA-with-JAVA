@@ -20,10 +20,10 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int arr [] = {0,1,2,3,4,-100,-5223,3422,343,-353,3434,2323,-23,232,241};
+        int arr [] = {0,1};
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
-        System.out.println(binarySearch2(9, arr));
+        System.out.println(binarySearch2(1, arr));
 
     }
 }
