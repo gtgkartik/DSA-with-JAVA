@@ -13,8 +13,6 @@
 
 To find the length of a subarray given the start and end indices, use the formula:
 
-\[ \text{length} = \text{end} - \text{start} + 1 \]
-
 ## Example
 
 Given an array `arr[]` and the subarray defined by `start` and `end` indices:
