@@ -1,12 +1,13 @@
-package LeetCodePractise.PeakIndexOfMountainArray;
+package LeetCodePractise.FindPeakElement;
 
-public class PeakIndexOfMountainArraySolution2 {
+public class FIndPeakElement {
 
-    static int findPeakElement(int[] arr) {
+    static int findPeak(int [] arr) {
         int start = 0 ;
         int end = arr.length -1 ;
         while(start<end){
             int mid = start+ (end - start)/2;
+
             if(arr[mid] >  arr[mid+1]){
                 end = mid ;
             }else{
@@ -17,9 +18,10 @@ public class PeakIndexOfMountainArraySolution2 {
     }
 
     public static void main(String[] args) {
-
-        int arr [] = {3,4,5,1};
-        System.out.println(findPeakElement(arr));
-
+        int arr[] = {6,5,4,3,2,3,2};
+        System.out.println(findPeak(arr));
     }
-}
+    }
+
+
+
