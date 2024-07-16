@@ -4,4 +4,4 @@
 - [Peak Index in Mountain Array](./PeakIndexOfMountainArray)
 - [Find Peak Element](./FindPeakElement)
 - [Find in Mountain Array](./FindMountainArray/)
-- [Search In Roated Sorted Array]()
+- [Search In Roated Sorted Array](./SearchInRotatedSortedArray)
