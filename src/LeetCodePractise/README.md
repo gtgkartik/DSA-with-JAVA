@@ -2,6 +2,6 @@
 
 # Binary Search 
 
-- [Peak Index in Mountain Array](./PeakIndexOfMountainArray/README.md)
+- [Peak Index in Mountain Array](./PeakIndexOfMountainArray)
 - [Find Peak Element](./FindPeakElement)
-- [Find in Mountain Array](./FindMountainArray/README.md)
+- [Find in Mountain Array](./FindMountainArray/)
