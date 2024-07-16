@@ -1,4 +1,4 @@
-package CollegeOnCampus;
+package CollegeOnCampus.MoveWorks;
 
 public class BalancedWords {
 
