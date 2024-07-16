@@ -4,4 +4,4 @@
 
 - [Peak Index in Mountain Array](./PeakIndexOfMountainArray/README.md)
 - [Find Peak Element](./FindPeakElement)
-- 
+- [Find in Mountain Array](./FindMountainArray/README.md)
