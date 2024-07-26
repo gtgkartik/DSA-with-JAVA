@@ -5,3 +5,4 @@
 - [Find Peak Element](./FindPeakElement)
 - [Find in Mountain Array](./FindMountainArray/)
 - [Search In Roated Sorted Array](./SearchInRotatedSortedArray)
+- [Remove Outer Most Paranthesis](./RemoveOuterMostParantheses)
