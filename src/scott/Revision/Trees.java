@@ -100,7 +100,6 @@ public class Trees {
             }
         }
     }
-
     public static void main(String[] args) {
         BTree t = new BTree();
         t.insert(4);
